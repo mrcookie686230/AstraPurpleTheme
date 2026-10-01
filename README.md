@@ -9,3 +9,7 @@ If you want to add the theme to Vencord
     Press Enter / click outside the box.
     Turn the theme ON.
     Restart Discord if the theme doesn't appear immediately. Then your Theme is set On
+
+
+
+<img width="1273" height="724" alt="Screenshot_20261001_193924" src="https://github.com/user-attachments/assets/1bd43e29-75c6-4d05-8f02-1587ce4c5f78" />
